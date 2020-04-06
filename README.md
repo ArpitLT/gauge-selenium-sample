@@ -3,11 +3,14 @@
 
 ---
 
-### Prerequisites
+### Prerequisites for Gauge tutorial with Java and Selenium
 
-1. Gauge plugin must be configured with your IDE or Gauge must be installled if you are running test from CMD/Terminal
-2. Maven must be installed
-
+* **Gauge must be installed and 
+Package Manager (npm)** : Install Node.js from [here](https://nodejs.org/en/#home-downloadhead) Or Install Node.js with [Homebrew](http://brew.sh/)
+```
+$ brew install node
+```
+* **Maven dependency
 ### Environment Setup
 
 1. Global Dependencies
